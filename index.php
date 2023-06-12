@@ -11,8 +11,8 @@
 </head>
 <body>
 <div id="app">
-
+    <h1>{{message}}</h1>
 </div>
- <script src="./JS/main.js"></script>
+ <script src="./main.js"></script>
 </body>
 </html>
