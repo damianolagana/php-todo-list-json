@@ -2,19 +2,19 @@
 
 $toDoList = [
     [
-        'name' => 'Cane',
+        'name' => 'Portare fuori il cane',
         'status' => true,
     ],
     [
-        'name' => 'Cucinare',
+        'name' => 'Preparare la cena',
         'status' => false,
     ],
     [
-        'name' => 'Spazzatura',
+        'name' => 'Portare fuori la spazzaura',
         'status' => false,
     ],
     [
-        'name' => 'Palestra',
+        'name' => 'Andare in palestra',
         'status' => true,
     ],
 ];
