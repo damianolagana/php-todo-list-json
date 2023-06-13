@@ -11,10 +11,11 @@ createApp({
             axios.get(this.apiUrl).then((response)=>{
                 console.log("Dati ricevuti: ", response.data)
             })
-        }
+        },
+        
     },
     mounted(){
-        this.getData();
+        // this.getData();
     }
 
 }).mount('#app');
